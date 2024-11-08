@@ -7,7 +7,7 @@ This Lab is going to cover How we create and configure Virustotal-api app in Spl
 [![Medium](https://img.shields.io/badge/Medium-Writeups-black)](https://medium.com/@nikhil-c)
 
 ## 🍁Introduction
-In this I will create and configure Gorman_Virustotal app that allow us to configure with Virustotal-api-key, So we can reduce efforts of searching each **Suspicious Event** manually by visiting website.
+In this Project, I will create and configure Gorman_Virustotal app that allow us to configure with Virustotal-api-key, So we can reduce efforts of searching each **Suspicious Event** manually by visiting website.
 
 ## 🍁Prequiresites
 - Familiar with splunk Soar Platform
