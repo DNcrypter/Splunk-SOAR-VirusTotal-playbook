@@ -217,4 +217,4 @@ Finally, We have created an App with one Action. We built a simple playbook and 
 
 Hope you enjoyed this and if you want more information on the App code and how to interact with the SOAR API can be found here: https://docs.splunk.com/Documentation/SOAR/current/DevelopApps/AppDevAPIRef. Happy SOARing.
  
- If you like my project make it star in your github and also follow for upcomming content.
+ If you like my project make it star in your github and also follow for upcoming content.
